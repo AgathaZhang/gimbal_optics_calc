@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>gimbal_optics_calc</name>
+  <version>0.0.1</version>
+  <description>Gimbal optics calculation package: FOV/zoom/distance/target/frame heuristics.</description>
+
+  <maintainer email="you@todo.todo">you</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>roscpp</build_depend>
+  <exec_depend>roscpp</exec_depend>
+
+  <!-- 如果你未来要加参数服务器 yaml、msg、dynamic_reconfigure 等，再在这里加依赖 -->
+
+  <export>
+  </export>
+</package>

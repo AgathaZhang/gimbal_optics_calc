@@ -1,0 +1,45 @@
+- zoom: 10
+  frame: 796
+  obj_distance: 6500
+- zoom: 14.9
+  frame: 557
+  obj_distance: 6500
+- zoom: 20.1
+  frame: 439.5
+  obj_distance: 6500
+- zoom: 25
+  frame: 372.5
+  obj_distance: 6500
+
+- zoom: 10
+  frame: 1248
+  obj_distance: 10030
+- zoom: 15.2
+  frame: 809
+  obj_distance: 10030
+- zoom: 19.9
+  frame: 654
+  obj_distance: 10030
+- zoom: 25
+  frame: 542
+  obj_distance: 10030
+
+- zoom: 10.2
+  frame: 1929
+  obj_distance: 15180
+- zoom: 15
+  frame: 1260
+  obj_distance: 15180
+- zoom: 20.1
+  frame: 994
+  obj_distance: 15180
+- zoom: 25
+  frame: 820
+  obj_distance: 15180
+
+- zoom: 19.9
+  frame: 1403
+  obj_distance: 21600
+- zoom: 25
+  frame: 1146
+  obj_distance: 21600
